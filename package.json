@@ -3,8 +3,8 @@
     "mysql2": "^2.3.0"
   },
   "name": "mysql-q",
-  "description": "## API ### Properties * tables  * options * pool ### Methods * createPool * registerTable * getTable",
-  "version": "1.0.0",
+  "description": "A mongoose like query syntax for mysql",
+  "version": "1.0.1",
   "main": "index.js",
   "directories": {
     "lib": "lib"
