@@ -4,7 +4,7 @@
   },
   "name": "mysql-q",
   "description": "A mongoose like query syntax for mysql",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "main": "index.js",
   "directories": {
     "lib": "lib"
